@@ -4,7 +4,7 @@
 <h3 align="center">A passionate developer from India 🇮🇳</h3>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;Backend+Developer;JavaScript+%7C+Java+%7C+Python;Always+learning+new+techs" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=2000&pause=1000&color=00F7FF&center=true&vCenter=true&width=435&lines=Frontend+Developer;JavaScript+%7C+Java+%7C+Python;Always+learning+new+techs" />
 </p>
 
 ---
@@ -12,8 +12,8 @@
 ### 🧠 About Me:
 
 - 💻 I’m currently learning **Full Stack Web Development**
-- 🌱 Exploring **AI/ML with Python**
-- 📫 Reach me at: [munshithsanju@email.com](mailto:munshithsanju@email.com)
+- 🌱 Exploring **Data Science with Python**
+- 📫 Reach me at: [munshithsanju1chalapaka@gmail.com](mailto:munshithsanju1chalapaka@gmail.com)
 - 🧰 I love building projects with clean UI & logic
 
 ---
@@ -22,15 +22,16 @@
 
 ### 📊 GitHub Stats
 
+### 📊 GitHub Stats
+
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Munshith_16&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Munshith_16&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Munshith&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Munshith&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munshith_16&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Munshith&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 </p>
-
 
 ---
 
